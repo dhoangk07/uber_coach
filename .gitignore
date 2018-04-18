@@ -17,3 +17,5 @@
 /yarn-error.log
 
 .byebug_history
+:100644 100644 b7f49fda7f4a11084dc4665645d9eecdd2868534 0000000000000000000000000000000000000000 M
+app/views/products/new.html.erb
